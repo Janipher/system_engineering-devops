@@ -1,1 +1,1 @@
-Script that deletes betty in /tmp/my_first_directory
+Script that deletes the directory my_first_directory in /tmp/
