@@ -1,1 +1,1 @@
-Script thst displays the path of the current working directory
+Script that displays the list of my current directory
