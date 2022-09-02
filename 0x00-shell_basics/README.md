@@ -1,1 +1,1 @@
-Script that prints the type of file of /tmp/iamafile
+Script to creat a symbolic link bin/ls and name it _ls_
