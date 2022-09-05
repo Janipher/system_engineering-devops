@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "My first text into this file, excited" > ls_cwd_content

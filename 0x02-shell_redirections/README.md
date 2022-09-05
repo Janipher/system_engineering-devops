@@ -1,1 +1,1 @@
-Script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
+Script that writes into the file ls_cwd_content
