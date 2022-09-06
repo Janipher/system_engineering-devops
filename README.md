@@ -1,1 +1,1 @@
-Duplicate last line
+<o>
